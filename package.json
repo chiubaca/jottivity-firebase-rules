@@ -1,0 +1,25 @@
+{
+  "name": "jottivity-firebase-rules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiubaca/jottivity-firebase-rules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiubaca/jottivity-firebase-rules/issues"
+  },
+  "homepage": "https://github.com/chiubaca/jottivity-firebase-rules#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "jest": "^25.0.0",
+    "ts-jest": "^25.0.0",
+    "@firebase/testing": "^0.15.0"
+  }
+}
