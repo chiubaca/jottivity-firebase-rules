@@ -1,0 +1,1 @@
+# jottivity-firebase-rules
