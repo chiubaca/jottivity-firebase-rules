@@ -1,5 +1,6 @@
 # Jottivity Firebase Rules
 
+Unit tests for Firestore rules for [Jottivity](https://github.com/chiubaca/jottivity).
 
 ## Prerequisite steps 🐣 
 
